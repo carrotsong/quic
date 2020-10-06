@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/pion/logging"
-	"github.com/pion/quic/internal/wrapper"
+	"github.com/carrotsong/logging"
+	"github.com/carrotsong/quic/internal/wrapper"
 )
 
 // Transport is a quic transport focused on client/server use cases.

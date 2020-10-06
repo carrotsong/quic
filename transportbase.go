@@ -7,8 +7,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/pion/logging"
-	"github.com/pion/quic/internal/wrapper"
+	"github.com/carrotsong/logging"
+	"github.com/carrotsong/quic/internal/wrapper"
 )
 
 // TransportBase is the base for Transport. Most of the
